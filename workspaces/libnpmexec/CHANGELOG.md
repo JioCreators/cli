@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.1.2](https://github.com/npm/cli/compare/libnpmexec-v8.1.1...libnpmexec-v8.1.2) (2024-05-28)
+
+### Bug Fixes
+
+* [`2d1d8d0`](https://github.com/npm/cli/commit/2d1d8d0ef18a10ac7938380884745f1d3c3cb078) [#7559](https://github.com/npm/cli/pull/7559) adds `node:` specifier to all native node modules (#7559) (@reggi)
+
+
+### Dependencies
+
+* [workspace](https://github.com/npm/cli/releases/tag/arborist-v7.5.3): `@npmcli/arborist@7.5.3`
+
 ## [8.1.1](https://github.com/npm/cli/compare/libnpmexec-v8.1.0...libnpmexec-v8.1.1) (2024-05-15)
 
 ### Dependencies
